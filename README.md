@@ -12,9 +12,9 @@ Viewmaker networks _learn_ a family of data transformations with a generative mo
 
 Viewmakers are trained adversarially with respect to the pretraining loss—this means they are compatible with many different pretraining objectives. We present results for SimCLR and InstDisc, but viewmakers are compatible with any view-based objective, including MoCo, BYOL, SimSiam, and SwAV.
 
-Some example distortions learned for images (each frame is generated with a different random noise input to the viewmaker)
+<!-- Some example distortions learned for images (each frame is generated with a different random noise input to the viewmaker)
 
-![Image](img/viewmaker.gif)
+![Image](img/viewmaker.gif) -->
 
 ## 1) Install Libraries and Dependencies
 
